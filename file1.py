@@ -1,4 +1,4 @@
 #somthingya
-name = input("Enter your name: ")
-print("I respect you,"+name)
+name = input("Enter your fathers name; ")
+print("I respect your father,"+name)
 print("Yes i DO!")
