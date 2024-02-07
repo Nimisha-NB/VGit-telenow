@@ -1,4 +1,3 @@
 #somthingya
-print("Please be a merge conflict, I will respect you more")
-#jaane kyu log pyaar karte hai
-
+print("You have broken my heart today by not gin=ving a merge conflict")
+print("Please be a merge conflict now i beg")
